@@ -1,2 +1,1 @@
-# CursoHenry
-modulo 2 del precurso de Henry
+este proyecto es una prueba de como crear un repositorio y conarlo desde github a mi computadora
